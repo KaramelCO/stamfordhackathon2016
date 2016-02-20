@@ -1,3 +1,7 @@
-.whatever {
+.page-header {
     color:#fff;
+    margin-left:30px;
+}
+body {
+  background-color: #1D80C3;
 }
